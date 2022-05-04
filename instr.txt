@@ -1,5 +1,5 @@
-This is a documentation for the ELC2K
-=====================================
+This is a documentation for the ZC2K
+==============================================
 add - add 2 registers and store in 3rd register
 div - divide 2 registers and store in 3rd register
 mul - multiply 2 registers and store in 3rd register
