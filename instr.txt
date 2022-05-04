@@ -1,11 +1,11 @@
 This is a documentation for the ELC2K
 =====================================
 add - add 2 registers and store in 3rd register
-addi - add regA and immediate and store in regC
 div - divide 2 registers and store in 3rd register
 mul - multiply 2 registers and store in 3rd register
 and - bitwise and regA and regB and store in regC
 nor - bitwise nor regA and regB and store in regC
+movi - move immediate into a register
 beq - branch if two registers are equal to pc+1+offset
 jalr - store pc+1 in regA and jump to address in regB
 lw - load value at val at RegA + offset
