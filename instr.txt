@@ -12,6 +12,6 @@ lw - load value at val at RegA + offset
 sw - store value in regB at val of RegA + offset
 push - push value at regA to stack
 pop - pop value from stack into regA 
-mov - move value from regA to regB
+lsl - shift value in register A left by value in register B
 noop - does nothing
 halt - halts program
